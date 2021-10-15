@@ -4,8 +4,7 @@
   "env": {
     "viewportWidthBreakpoint": 768
   },
-  "defaultCommandTimeout": 17000,
+  "defaultCommandTimeout": 28000,
   "experimentalSessionSupport": true,
-  "experimentalStudio": true
-  
+  "experimentalStudio": true 
 }
