@@ -6,5 +6,6 @@
   },
   "defaultCommandTimeout": 28000,
   "experimentalSessionSupport": true,
-  "experimentalStudio": true 
+  "experimentalStudio": true,
+    "projectId": "rtpd5b"
 }
